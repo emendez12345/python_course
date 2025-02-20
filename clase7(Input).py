@@ -1,0 +1,6 @@
+name =input("Ingrese su nombre:")
+print(type(name))
+age =int(input("Ingrese su edad:"))
+print(type(age))
+address=input('Ingrese su direccion:')
+print(type(address))
